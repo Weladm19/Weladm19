@@ -10,7 +10,7 @@
       a positive experience with developer teams and ux teams developing a FastApi and mysql system using agile methodologies
 
 
-
+<div style='display'>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
@@ -27,3 +27,4 @@
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
           
+</div>
