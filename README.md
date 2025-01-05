@@ -14,10 +14,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=30 width=30 />
 </div>      
 <div style='inline-block'><br>
-  
-            <i class="devicon-django-plain-wordmark" ht=30 width=30></i>
-          
-  </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height=30 width=30 />
+</div>
 <div style='inline-block'><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" ht=30 width=30/>
 </div>
